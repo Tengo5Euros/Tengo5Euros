@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tengo5Euros
-- 👀 I’m interested in sobrevivir a programación otro año.
-- 🌱 I’m currently learning a sobrevivir viendo Bear Grills
-- 💞️ I’m looking to collaborate with Michael Jackson.
+- 👀 I’m interested in sobrevivir a 33 lenguajes de programación.
+- 🌱 I’m currently learning a sobrevivir viendo Bear Grills.
+- 💞️ I’m looking to collaborate with Marc Marquéz.
 - 📫brunoesquiva12111@gmail.com
 
 <!---
